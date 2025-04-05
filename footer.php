@@ -1,4 +1,4 @@
-<!-- <style>
+<style>
     .flex-footer {
     display: flex;
     flex-direction: column;
@@ -177,4 +177,4 @@
       <p class="mt-8 text-base text-gray-400 md:order-1 md:mt-0">&copy; 2023 Tuning Shop, Inc. All rights reserved.</p>
     </div>
   </div>
-</footer> -->
+</footer>
